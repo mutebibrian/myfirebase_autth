@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365204054160",
+    "project_id": "mysplash-82ac5",
+    "storage_bucket": "mysplash-82ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365204054160:android:7407fcb1a7a54ea4cb3815",
+        "android_client_info": {
+          "package_name": "com.kotlinseries.mysplash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365204054160-heinqu7338ddovc2s43hnimkcrqrd4qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj70jDJ3MGhWiPiqjdkcvFwWDYWigPXMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365204054160-heinqu7338ddovc2s43hnimkcrqrd4qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
